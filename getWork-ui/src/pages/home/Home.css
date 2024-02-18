@@ -41,7 +41,7 @@
 }
 
 .home .features .container {
-  width: 1400px;
+  width: 1120px;
   display: flex;
   align-items: center;
   gap: 200px;
@@ -93,7 +93,7 @@
 }
 
 .home .features .container .item video {
-  width: 720px;
+  width: 420px;
 }
 
 .home .explore {
@@ -103,7 +103,7 @@
 }
 
 .home .explore .container {
-  width: 1400px;
+  width: 1120px;
 }
 
 .home .explore .container h1 {

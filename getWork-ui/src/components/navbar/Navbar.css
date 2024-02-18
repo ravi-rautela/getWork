@@ -22,7 +22,7 @@
 }
 
 .navbar .container {
-  width: 1400px;
+  width: 1120px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -105,7 +105,7 @@
 }
 
 .navbar .menu {
-  width: 1400px;
+  width: 1120px;
   padding: 10px 0px;
   display: flex;
   justify-content: space-between;
